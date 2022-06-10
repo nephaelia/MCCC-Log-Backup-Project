@@ -5,7 +5,7 @@ const readline = require('readline');
 (async function processLineByLine() {
   try {
     const rl = readline.createInterface({
-      input: fs.createReadStream('/Users/nephaelia/Documents/GitHub/MCCC-Log-Backup-Project/example mccc logs/mc_cmd_center.log'),
+      input: fs.createReadStream('example mccc logs/mc_cmd_center.log'),
       crlfDelay: Infinity
     });
 
@@ -15,7 +15,7 @@ const readline = require('readline');
         function join(arr) {
             return [...new Set(arr)];
         }
-    fs.appendFile('/Users/nephaelia/Documents/GitHub/MCCC-Log-Backup-Project/example mccc logs/mcbackuptest.txt', "\n" + arr, err => { 
+    fs.appendFile('MCCC-Log-Backup-Project/example mccc logs/mcbackuptest.txt', "\n" + arr, err => { 
       if (err) {
           console.error(err);
       }

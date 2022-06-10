@@ -1,0 +1,110 @@
+
+[Jun-09-2022 20:23:22]Initializing MC Command Center version: 2022.3.0...
+[Jun-09-2022 20:25:29]Initializing Zone Data...
+[Jun-09-2022 20:27:13]Yuusuke Ishida has aged-up to Age.ELDER
+[Jun-09-2022 20:30:28]Juliana Huntington III has aged-up to Age.CHILD
+[Jun-09-2022 20:30:28]Brandon Fine has aged-up to Age.CHILD
+[Jun-09-2022 20:30:28]Pawel Fine has aged-up to Age.CHILD
+[Jun-09-2022 20:30:28]Davin Akana has aged-up to Age.YOUNGADULT
+[Jun-09-2022 20:54:26]******************************************************
+[Jun-09-2022 20:54:26]Checking for random pregnancies
+[Jun-09-2022 20:54:27]No pregnancies happened this cycle.  No random Sims selected.
+[Jun-09-2022 20:54:27]*** Started pet pregnancy for Rhea with Nugget.
+[Jun-09-2022 20:54:27]Checking for random marriage
+[Jun-09-2022 20:54:27]Started 1 pet pregnancy
+[Jun-09-2022 20:54:27]No valid sims found to marry Alexander Goth.
+[Jun-09-2022 20:30:28]Chelsey Banerjee has aged-up to Age.TEEN
+[Jun-09-2022 20:54:27]No valid sims found to marry Rebekah Charm.
+[Jun-09-2022 20:54:27]No valid sims found to marry Victoria Bjergsen.
+[Jun-09-2022 20:54:27]No valid sims found to marry Luciano Caliente.
+[Jun-09-2022 20:54:27]No valid sims found to marry Paula Rosa.
+[Jun-09-2022 20:54:27]No valid sims found to marry Evie Delgato.
+[Jun-09-2022 20:54:27]No valid sims found to marry Nataly Straud.
+[Jun-09-2022 20:54:27]No valid sims found to marry Jess Sigworth.
+[Jun-09-2022 20:54:27]No valid sims found to marry Kayaan Anand.
+[Jun-09-2022 20:54:27]No valid sims found to marry Clint Landgraab.
+[Jun-09-2022 20:54:27]No valid sims found to marry Taku Akiyama.
+[Jun-09-2022 20:54:27]No valid sims found to marry Olivia Shimizu.
+[Jun-09-2022 20:54:27]No valid sims found to marry Frances Bhamra.
+[Jun-09-2022 20:54:28]No valid sims found to marry Manami Kobayashi.
+[Jun-09-2022 20:54:28]No valid sims found to marry Porter Ito.
+[Jun-09-2022 20:54:28]No valid sims found to marry Hiroko Yokoyama.
+[Jun-09-2022 20:54:28]No valid sims found to marry Wiki Iosua.
+[Jun-09-2022 20:54:28]No valid sims found to marry Erika Okada.
+[Jun-09-2022 20:54:28]No valid sims found to marry Zane Rock.
+[Jun-09-2022 20:54:28]No valid sims found to marry Joystick Bowling.
+[Jun-09-2022 20:54:28]No marriages happened this cycle.
+[Jun-09-2022 20:57:35]Rebeca Bhamra has aged-up to Age.YOUNGADULT
+[Jun-09-2022 20:57:36]Elisa Landgraab died of DeathType.Embarrassment.
+[Jun-09-2022 20:57:36]* Created special Sim household, Zik, containing 1 sim(s) for: Unknown
+[Jun-09-2022 20:57:36]Addison Urban has aged-up to Age.TEEN
+[Jun-09-2022 20:57:36]Dalton Flex has aged-up to Age.TEEN
+[Jun-09-2022 21:29:42]Hitomi Ikeda had 1 baby with Darwin Cho.
+[Jun-09-2022 21:29:42]Pat Hasegawa has aged-up to Age.YOUNGADULT
+[Jun-09-2022 22:12:27]Juan Manuel Domínguez died of DeathType.Old Age.
+[Jun-09-2022 22:12:46]Mateo Ávila died of DeathType.Old Age.
+[Jun-09-2022 22:12:55]Aarón Acevedo died of DeathType.Old Age.
+[Jun-09-2022 22:13:34]Bianca Ochoa died of DeathType.Old Age.
+[Jun-09-2022 22:15:21]* Created homeless household, Knutson, containing 1 sim(s) for: filter_Walkby_Strangerville_Conspiracist
+[Jun-09-2022 22:15:43]* Created homeless household, Augustin, containing 1 sim(s) for: filter_StallVendor_CurioShop
+[Jun-09-2022 22:15:57]******************************************************
+[Jun-09-2022 22:15:57]Running alarms for Thursday (4)
+[Jun-09-2022 22:19:41]Luis Misipeka has aged-up to Age.CHILD
+[Jun-09-2022 22:19:41]Cassidy Howell has aged-up to Age.TEEN
+[Jun-09-2022 22:19:41]Bryce Ito has aged-up to Age.CHILD
+[Jun-09-2022 22:19:42]Latisha Kobayashi has aged-up to Age.YOUNGADULT
+[Jun-09-2022 22:19:42]* Created special Sim household, Acharya, containing 1 sim(s) for: Unknown
+[Jun-09-2022 22:19:42]Sheena Guzman died of DeathType.ClimbingRoute.
+[Jun-09-2022 22:19:42]* Created special Sim household, Sigworth, containing 1 sim(s)including at least one pet for: Unknown
+[Jun-09-2022 22:19:42]* Created special Sim household, Goth, containing 1 sim(s)including at least one pet for: Unknown
+[Jun-09-2022 22:19:42]Kayaan Anand has died and left their child, Raven Shimizu, money (19232) as an inheritance.
+[Jun-09-2022 22:19:43]Kayaan Anand died of DeathType.Fire.
+[Jun-09-2022 22:25:45]Attempted to Summon a culled or netherworld ghost Sim to the lot, which EA's code does not allow: Duane Talla
+[Jun-09-2022 22:36:55]Rhea delivered 2 babies.
+[Jun-09-2022 22:39:57]* Created homeless household, Soup, containing 1 sim(s) for: filter_mailman1
+[Jun-09-2022 22:49:37]Jenna Akiyama has died and left their child, Miki Forsythe, money (4000) as an inheritance.
+[Jun-09-2022 22:49:37]Jenna Akiyama died of DeathType.Old Age.
+[Jun-09-2022 22:52:08]* Created homeless household, Steele, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Jun-09-2022 22:52:59]* Created homeless household, Dubois, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Jun-09-2022 22:52:59]* Created homeless household, McGovern, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Jun-09-2022 22:52:59]* Created homeless household, Houchin, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Jun-09-2022 22:52:59]* Created homeless household, Harman, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat_InHeat
+[Jun-09-2022 20:54:26]Running alarms for Wednesday (3)
+[Jun-09-2022 22:54:10]Dorian Root has aged-up to Age.YOUNGADULT
+[Jun-10-2022 00:05:26]******************************************************
+[Jun-10-2022 00:05:26]Running alarms for Friday (5)
+[Jun-10-2022 00:05:26]Checking for random pregnancies
+[Jun-10-2022 00:05:26]No valid sims found to seed pregnancy for Lt. Agnon.
+[Jun-10-2022 00:05:26]No pregnancies happened this cycle.
+[Jun-10-2022 00:05:26]*** Started pet pregnancy for Rani with Bobie.
+[Jun-10-2022 00:05:26]*** Started pet pregnancy for Bubbles with Max.
+[Jun-10-2022 00:05:26]*** Started pet pregnancy for Mochi with Nugget.
+[Jun-10-2022 00:05:26]Started 3 pet pregnancies
+[Jun-10-2022 00:05:26]Checking for random marriage
+[Jun-10-2022 00:05:26]No valid sims found to marry Lucas Munch.
+[Jun-10-2022 00:05:26]No valid sims found to marry Summer Holiday.
+[Jun-10-2022 00:05:26]No valid sims found to marry Nani Kealoha.
+[Jun-10-2022 00:05:26]No valid sims found to marry Darwin Cho.
+[Jun-10-2022 00:05:26]No valid sims found to marry Agnes Crumplebottom.
+[Jun-10-2022 00:05:26]No valid sims found to marry Agatha Crumplebottom.
+[Jun-10-2022 00:05:26]No valid sims found to marry Haleigh Bailey.
+[Jun-10-2022 00:05:26]No valid sims found to marry Christie Sigworth.
+[Jun-10-2022 00:05:27]No valid sims found to marry Frances Bhamra.
+[Jun-10-2022 00:05:27]No valid sims found to marry Manami Kobayashi.
+[Jun-10-2022 00:05:27]No valid sims found to marry Satoru Yamada.
+[Jun-10-2022 00:05:27]No valid sims found to marry Fetu Kalawai'a.
+[Jun-10-2022 00:05:27]No valid sims found to marry Sigrid James.
+[Jun-10-2022 00:05:27]No valid sims found to marry Zane Rock.
+[Jun-10-2022 00:05:27]No valid sims found to marry Adelynn Gomes.
+[Jun-10-2022 00:05:27]No valid sims found to marry Jaleesa Staples.
+[Jun-10-2022 00:05:27]No valid sims found to marry Wiki Iosua.
+[Jun-10-2022 00:05:27]No valid sims found to marry Janessa Allston.
+[Jun-10-2022 00:05:27]No marriages happened this cycle.
+[Jun-10-2022 00:05:27]Nathanael Ly Bheeda has aged-up to Age.YOUNGADULT
+[Jun-10-2022 00:10:09]Federico Goldbloom has aged-up to Age.CHILD
+[Jun-10-2022 00:10:10]Lucas Torres died of DeathType.KillerRabbit.
+[Jun-10-2022 00:10:10]Nani Kealoha died of DeathType.Laughter.
+[Jun-10-2022 00:10:10]Rylie Straud has aged-up to Age.YOUNGADULT
+[Jun-09-2022 20:48:26]* Created homeless household, Bowling, containing 1 sim(s) for: tunableSimFilter_EcoInspector
+[Jun-09-2022 22:52:59]* Created homeless household, Still, containing 1 sim(s)including at least one pet for: petWorld_Filter_Stray_Cat
+[Jun-09-2022 20:54:27]No valid sims found to marry Darwin Cho.

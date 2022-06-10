@@ -1,0 +1,4 @@
+Sources I used, especially if I used any of their code:
+
+"Getting Date and Time in Node JS", Useful Angle, https://usefulangle.com/post/187/nodejs-get-date-time
+    Used for: dateandtimetest.JS , timestamptest.JS , 
